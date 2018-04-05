@@ -4,7 +4,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-03
+# Last updated: 2018-04-04
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -817,9 +817,10 @@ apis.google.com	216.58.203.14
 # Google Search Home End
 
 # Google Service Start
+blog.google	216.239.34.21
+environment.google	216.239.38.21
 domains.google	108.177.120.94
 domains.google.com	108.177.120.94
-environment.google	108.177.120.94
 aboutme.google.com	108.177.120.94
 ads.google.com	108.177.120.94
 abc.xyz	108.177.120.94
