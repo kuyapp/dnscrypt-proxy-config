@@ -12,14 +12,15 @@ require_nolog = true
 require_nofilter = true
 force_tcp = true
 timeout = 2500
-#keepalive = 10
+keepalive = 30
 lb_strategy = 'p2'
 log_level = 0
 log_file = 'dnscrypt-proxy.log'
 use_syslog = false
 cert_refresh_delay = 240
-#tls_disable_session_tickets = false
-#tls_cipher_suite = [52393, 52392, 49195, 49199]
+dnscrypt_ephemeral_keys = false
+tls_disable_session_tickets = false
+tls_cipher_suite = [52392, 49199]
 fallback_resolver = '9.9.9.9:53'
 ignore_system_dns = false
 log_files_max_size = 10
@@ -45,7 +46,7 @@ cloaking_rules = 'dnscrypt-cloaking-rules.txt'
 #        DNS cache        #
 ###########################
 cache = true
-cache_size = 256
+cache_size = 512
 cache_min_ttl = 600
 cache_max_ttl = 86400
 cache_neg_ttl = 60
@@ -83,10 +84,10 @@ cache_neg_ttl = 60
 ######################################################
 #   Pattern-based whitelisting (blacklists bypass)   #
 ######################################################
-#[whitelist]
-#  whitelist_file = 'dnscrypt-whitelist.txt'
-#  log_file = 'dnscrypt-whitelisted.log'
-#  log_format = 'tsv'
+[whitelist]
+  whitelist_file = 'dnscrypt-whitelist.txt'
+  log_file = 'dnscrypt-whitelisted.log'
+  log_format = 'tsv'
 
 #########################
 #        Servers        #
