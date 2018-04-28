@@ -4,7 +4,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-27
+# Last updated: 2018-04-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2695,16 +2695,74 @@ scontent-a-bog.cdninstagram.com	157.240.6.52
 scontent-a-bru.cdninstagram.com	179.60.195.52
 scontent-a-cdg.cdninstagram.com	179.60.192.52
 scontent-a-eze.cdninstagram.com	31.13.94.51
-scontent-a-lhr.cdninstagram.com	31.13.90.52
 scontent-a-frt.cdninstagram.com	31.13.92.51
 scontent-a-frx.cdninstagram.com	185.60.216.52
+scontent-a-gru.cdninstagram.com	31.13.85.52
+scontent-a-hkg.cdninstagram.com	157.240.15.63
+scontent-a-iad.cdninstagram.com	31.13.69.245
+scontent-a-icn.cdninstagram.com	31.13.68.51
+scontent-a-kut.cdninstagram.com	157.240.10.52
+scontent-a-lax.cdninstagram.com	157.240.11.52
+scontent-a-lga.cdninstagram.com	31.13.71.52
+scontent-a-lhr.cdninstagram.com	31.13.90.52
+scontent-a-lht.cdninstagram.com	157.240.1.52
+scontent-a-mad.cdninstagram.com	31.13.83.52
+scontent-a-mrs.cdninstagram.com	31.13.75.53
+scontent-a-mxp.cdninstagram.com	31.13.86.52
+scontent-a-nrt.cdninstagram.com	31.13.82.52
+scontent-a-ort.cdninstagram.com	157.240.18.63
+scontent-a-otp.cdninstagram.com	185.60.218.52
+scontent-a-scl.cdninstagram.com	179.60.193.63
+scontent-a-sea.cdninstagram.com	31.13.76.84
+scontent-a-sin.cdninstagram.com	157.240.13.52
+scontent-a-sit.cdninstagram.com	31.13.78.52
+scontent-a-sjc.cdninstagram.com	157.240.22.63
+scontent-a-sof.cdninstagram.com	157.240.9.52
+scontent-a-syd.cdninstagram.com	157.240.8.52
+scontent-a-tpe.cdninstagram.com	31.13.87.52
+scontent-a-vie.cdninstagram.com	31.13.84.52
+scontent-a-waw.cdninstagram.com	31.13.81.52
+scontent-a-yyz.cdninstagram.com	31.13.80.52
 scontent-b.cdninstagram.com	157.240.13.52
-scontent-b-ams.cdninstagram.com	157.240.13.52
+scontent-b-ams.cdninstagram.com	31.13.91.52
+scontent-b-amt.cdninstagram.com	31.13.64.52
+scontent-b-arn.cdninstagram.com	31.13.72.53
+scontent-b-atl.cdninstagram.com	31.13.65.52
+scontent-b-bog.cdninstagram.com	157.240.6.52
+scontent-b-bru.cdninstagram.com	179.60.195.52
+scontent-b-cdg.cdninstagram.com	179.60.192.52
+scontent-b-eze.cdninstagram.com	31.13.94.51
+scontent-b-frt.cdninstagram.com	31.13.92.51
+scontent-b-frx.cdninstagram.com	185.60.216.52
+scontent-b-gru.cdninstagram.com	31.13.85.52
+scontent-b-hkg.cdninstagram.com	157.240.15.63
+scontent-b-iad.cdninstagram.com	31.13.69.245
+scontent-b-icn.cdninstagram.com	31.13.68.51
+scontent-b-kut.cdninstagram.com	157.240.10.52
+scontent-b-lax.cdninstagram.com	157.240.11.52
+scontent-b-lga.cdninstagram.com	31.13.71.52
 scontent-b-lhr.cdninstagram.com	31.13.90.52
-scontent-b-mia.cdninstagram.com	31.13.67.63
+scontent-b-lht.cdninstagram.com	157.240.1.52
+scontent-b-mad.cdninstagram.com	31.13.83.52
+scontent-b-mrs.cdninstagram.com	31.13.75.53
+scontent-b-mxp.cdninstagram.com	31.13.86.52
+scontent-b-nrt.cdninstagram.com	31.13.82.52
+scontent-b-ort.cdninstagram.com	157.240.18.63
+scontent-b-otp.cdninstagram.com	185.60.218.52
+scontent-b-scl.cdninstagram.com	179.60.193.63
+scontent-b-sea.cdninstagram.com	31.13.76.84
+scontent-b-sin.cdninstagram.com	157.240.13.52
+scontent-b-sit.cdninstagram.com	31.13.78.52
+scontent-b-sjc.cdninstagram.com	157.240.22.63
+scontent-b-sof.cdninstagram.com	157.240.9.52
+scontent-b-syd.cdninstagram.com	157.240.8.52
+scontent-b-tpe.cdninstagram.com	31.13.87.52
+scontent-b-vie.cdninstagram.com	31.13.84.52
+scontent-b-waw.cdninstagram.com	31.13.81.52
+scontent-b-yyz.cdninstagram.com	31.13.80.52
 scontent-amt2-1.cdninstagram.com	31.13.64.52
 scontent-arn2-1.cdninstagram.com	31.13.72.53
-scontent-ams3-1.cdninstagram.com	31.13.91.52
+scontent-ams3-1.cdninstagram.com	157.240.2.52
 scontent-atl3-1.cdninstagram.com	31.13.65.52
 scontent-bog1-1.cdninstagram.com	157.240.6.52
 scontent-bru2-1.cdninstagram.com	179.60.195.52
@@ -2713,14 +2771,17 @@ scontent-eze1-1.cdninstagram.com	31.13.94.51
 scontent-frt3-1.cdninstagram.com	31.13.92.51
 scontent-frx5-1.cdninstagram.com	185.60.216.52
 scontent-gru2-1.cdninstagram.com	31.13.85.52
+scontent-gru2-2.cdninstagram.com	157.240.12.52
 scontent-hkg3-1.cdninstagram.com	31.13.95.48
 scontent-hkg3-2.cdninstagram.com	157.240.15.63
 scontent-iad.cdninstagram.com	31.13.69.245
 scontent-iad3-1.cdninstagram.com	31.13.69.245
 scontent-icn1-1.cdninstagram.com	31.13.68.51
 scontent-kut2-1.cdninstagram.com	157.240.10.52
+scontent-kut2-2.cdninstagram.com	179.60.194.63
 scontent-lax.cdninstagram.com	157.240.11.52
 scontent-lax3-1.cdninstagram.com	31.13.70.52
+scontent-lax3-2.cdninstagram.com	157.240.11.52
 scontent-lga.cdninstagram.com	31.13.71.52
 scontent-lga3-1.cdninstagram.com	31.13.71.52
 scontent-lhr3-1.cdninstagram.com	31.13.90.52
@@ -2730,6 +2791,7 @@ scontent-mrs1-1.cdninstagram.com	31.13.75.53
 scontent-mxp1-1.cdninstagram.com	31.13.86.52
 scontent-nrt1-1.cdninstagram.com	31.13.82.52
 scontent-ort2-1.cdninstagram.com	157.240.2.52
+scontent-ort2-2.cdninstagram.com	157.240.18.63
 scontent-otp1-1.cdninstagram.com	185.60.218.52
 scontent-scl1-1.cdninstagram.com	179.60.193.63
 scontent-sea1-1.cdninstagram.com	31.13.76.84
@@ -3302,11 +3364,11 @@ www.w3schools.com	192.229.173.207
 # W3schools End
 
 # Whatsapp Start
-www-cdn.whatsapp.net	107.23.234.123
-faq.whatsapp.com	107.23.234.123
-crashlogs.whatsapp.net	107.23.234.123
-mmg-fna.whatsapp.net	54.210.50.132
-mmh.whatsapp.net	54.210.50.132
+www-cdn.whatsapp.net	157.240.15.53
+faq.whatsapp.com	157.240.15.53
+crashlogs.whatsapp.net	157.240.15.53
+mmg-fna.whatsapp.net	157.240.2.53
+mmh.whatsapp.net	157.240.2.53
 whatsapp.com	169.44.82.102
 www.whatsapp.com	169.44.82.102
 blog.whatsapp.com	169.44.82.102
@@ -3320,8 +3382,8 @@ w5.web.whatsapp.com	169.44.82.120
 w6.web.whatsapp.com	169.44.82.120
 w7.web.whatsapp.com	169.44.82.120
 w8.web.whatsapp.com	169.44.82.120
-mms.whatsapp.net	169.54.222.149
-c.whatsapp.net	169.55.75.106
+mms.whatsapp.net	157.240.7.54
+c.whatsapp.net	157.240.8.53
 m.whatsapp.net	158.85.5.217
 p.whatsapp.net	174.37.243.84
 r.whatsapp.net	50.22.210.33
