@@ -4,7 +4,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-28
+# Last updated: 2018-05-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -36,18 +36,18 @@ s3-ap-southeast-2.amazonaws.com	54.231.249.17
 # Amazon AWS End
 
 # Android Start
-a.android.com	108.177.120.94
-b.android.com	108.177.120.94
-m.android.com	108.177.120.94
-connectivitycheck.android.com	108.177.120.94
-d.android.com	108.177.120.94
-dev.android.com	108.177.120.94
-market.android.com	108.177.120.94
-r.android.com	108.177.120.94
-android.com	216.58.217.196
-www.android.com	172.217.4.174
-source.android.com	172.217.4.174
-developer.android.com	172.217.4.174
+a.android.com	216.58.215.54
+b.android.com	216.58.215.54
+m.android.com	216.58.215.54
+connectivitycheck.android.com	216.58.215.54
+d.android.com	216.58.215.54
+dev.android.com	216.58.215.54
+market.android.com	216.58.215.54
+r.android.com	216.58.215.54
+android.com	216.58.223.214
+www.android.com	216.58.215.118
+source.android.com	172.217.17.22
+developer.android.com	172.217.16.246
 # Android End
 
 # Androidfilehost Start
@@ -393,18 +393,18 @@ www.github.com	192.30.253.112
 # Github End
 
 # Gmail Start
-gmail.com	108.177.122.160
-www.gmail.com	108.177.111.161
-googlemail.l.google.com	108.177.111.161
-mail-settings.google.com	74.125.70.162
-m.gmail.com	74.125.26.161
+gmail.com	216.58.215.229
+www.gmail.com	172.217.168.37
+googlemail.l.google.com	172.217.168.37
+mail-settings.google.com	216.58.215.231
+m.gmail.com	172.217.168.37
 m.googlemail.com	74.125.132.160
 gmail.google.com	108.177.122.161
 mail.google.com	172.217.168.197
-inbox.google.com	172.217.14.118
-chatenabled.mail.google.com	172.217.15.22
-filetransferenabled.mail.google.com	74.125.202.162
-isolated.mail.google.com	172.217.14.214
+inbox.google.com	172.217.168.5
+chatenabled.mail.google.com	172.217.168.7
+filetransferenabled.mail.google.com	172.217.168.71
+isolated.mail.google.com	172.217.168.39
 # Gmail End
 
 # Gmx Start
