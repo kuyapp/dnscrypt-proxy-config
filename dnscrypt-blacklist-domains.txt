@@ -440,6 +440,7 @@ antje.in.ua
 fable.in.ua
 freetime.in.ua
 web.life-line.in.ua
+mriya-shayan.in.ua
 ero.in.ua
 mcar.in.ua
 lasmamas.in.ua
@@ -3842,7 +3843,6 @@ sodakventures.com.ng
 importantinformations.com.ng
 chigogroups.com.ng
 emeraldbusiness.com.ng
-weepnomoretv.com.ng
 widgets.privateproperty.com.ng
 a.android100.org
 dm.ed10.org
@@ -3946,7 +3946,6 @@ allphausa.org
 now.laurita.org
 wow.laurita.org
 thx.laurita.org
-archive.wesowlspta.org
 stauga.altervista.org
 alibabab.altervista.org
 tb.altervista.org
@@ -6787,7 +6786,6 @@ blooberfoo.ml
 bbatendimento.ml
 unixo.ml
 video-clip.ml
-tubeqq.ml
 lionfiver.ml
 tweetr.ml
 colombiapictures.ml
@@ -7159,7 +7157,6 @@ kinotek24.pl
 seansik24.pl
 konto1.cal24.pl
 plikson24.pl
-elektro-studio24.pl
 expertcom.hekko24.pl
 stats.asp24.pl
 besttestyiq24.pl
@@ -7273,7 +7270,6 @@ pozyczka-minutowa.pl
 wygrywa.pl
 wypromuj.nazwa.pl
 9xa.pl
-filmowabaza.pl
 kasioraprzezneciora.za.pl
 s-parta.za.pl
 doladowanie.za.pl
@@ -7765,7 +7761,6 @@ www.piardofon.pl
 szpiegofon.pl
 edivision.pl
 cs-passion.pl
-fh-falkon.pl
 weblemon.pl
 groupon.pl
 plikson.pl
@@ -9359,6 +9354,7 @@ wjar10.com
 rscounter10.com
 topmeds10.com
 perfect10.com
+log1.uuserv10.com
 log2.uuserv10.com
 ui.uuserv10.com
 x10.com
@@ -9652,6 +9648,8 @@ www.v61.com
 media.201071.com
 jfhe.0769371.com
 t.zg71.com
+tg.wan71.com
+hy.wan71.com
 skibo281.com
 three381.com
 6781.com
@@ -10938,6 +10936,7 @@ credit-card.message27.com
 hughsangels.proboards27.com
 bdjs.6237237.com
 un.173737.com
+flash.game3737.com
 poufo.game3737.com
 pop.game3737.com
 qq937.com
@@ -13103,7 +13102,6 @@ isafruta.com
 comunidad.lasexta.com
 va-ua.com
 nasiridua.com
-sistemadepurificaciondeagua.com
 tg.52digua.com
 log.xigua.com
 adi.xigua.com
@@ -13977,7 +13975,6 @@ creative.jdkic.com
 bannanarepublic.com
 openx.siliconrepublic.com
 outinpublic.com
-media-clic.com
 doubleclic.com
 www.euro-clic.com
 latexangelic.com
@@ -14289,6 +14286,7 @@ edgy.demo.sproutinc.com
 pekisvinc.com
 sdc.shawinc.com
 stats.industryinc.com
+t.mtagmonetizationc.com
 facebook.com.esa-snc.com
 i.xyqsnc.com
 payplugoblksecurity.myvnc.com
@@ -15560,7 +15558,6 @@ statsdev.treesd.com
 airlinesd.com
 planoisd.com
 sabratravel-sd.com
-kt.avatarsd.com
 c.uoyrsd.com
 rc.uoyrsd.com
 r.uoyrsd.com
@@ -16051,7 +16048,6 @@ www.escortservice.com
 adserver.skiresort-service.com
 ns2.boostservice.com
 adrevservice.com
-irevservice.com
 www.usaphotocopyservice.com
 summarysupport.account-activityservice.com
 incognitopartyservice.com
@@ -16369,6 +16365,7 @@ adobee.com
 amobee.com
 j.jqbee.com
 kathybee.com
+iccee.com
 www.ailicee.com
 c.lomadee.com
 tracker.lomadee.com
@@ -16642,7 +16639,6 @@ pixel.serviceleverage.com
 users.marketleverage.com
 affiliates.mgmmirage.com
 mlook.mcdstorage.com
-bharatcoldstorage.com
 click.mrrage.com
 trc.pubsage.com
 mobi.pubsage.com
@@ -17292,6 +17288,7 @@ stats.style.com
 svstyle.com
 metrics.sonystyle.com
 metrics.shoedazzle.com
+track.www.zazzle.com
 phizzle.com
 look2me.com
 hits4me.com
@@ -17631,6 +17628,7 @@ radioeonline.com
 gcirm.delawareonline.com
 adserver.sharewareonline.com
 1freesoftwareonline.com
+adserver.softwareonline.com
 winstoreonline.com
 pharmacybeststoreonline.com
 chaseonline.com
@@ -21510,6 +21508,7 @@ un.5i.com
 ai.com
 hiringbai.com
 acemcdubai.com
+apcdubai.com
 exhibition-dubai.com
 www.xiacai.com
 www.dabaicai.com
@@ -21835,6 +21834,7 @@ miserji.com
 api.zhuashouji.com
 m.zhuashouji.com
 download.wuji.com
+cdn.wuji.com
 moreaki.com
 kowasaki.com
 mo.uryaki.com
@@ -23323,7 +23323,6 @@ aperionetwork.com
 playstationetwork.com
 ns1dns1.flonetwork.com
 catoonetwork.com
-wwwcartoonetwork.com
 ferronetwork.com
 vod-s.kinetonetwork.com
 cartonetwork.com
@@ -23416,7 +23415,6 @@ voluumtrk.com
 c.us1.dyntrk.com
 acotrk.com
 sebcotrk.com
-sofcotrk.com
 chlcotrk.com
 suscotrk.com
 z.ceotrk.com
@@ -23710,7 +23708,6 @@ labs.natpal.com
 disputed-lockedpaaypal.com
 webpaypal.com
 transactionlimited-paypal.com
-ser-vicepaypal.com
 secure-intlpaypal.com
 admintl-paypal.com
 images.paypal.com
@@ -26813,7 +26810,6 @@ g.perload.maxthon.com
 datacn-dl.maxthon.com
 g.dcs.maxthon.com
 push-s.maxthon.com
-stat.maxthon.com
 playsataion.com
 cuenta-verificacion.com
 hacomunicacion.com
@@ -27167,7 +27163,6 @@ mobile-redirection.com
 xml.clickredirection.com
 billing.netflix.user.solution.id2.client-redirection.com
 video.buzzintersection.com
-fileaddiction.com
 iddiction.com
 adexchangeprediction.com
 octopus-prediction.com
@@ -27337,7 +27332,6 @@ gravitron.chron.com
 metrics.chron.com
 dart.chron.com
 humoron.com
-jimmynetron.com
 nordstron.com
 cytron.com
 imap.nyron.com
@@ -29465,7 +29459,6 @@ admatcher.videostrip.com
 eventtracker.videostrip.com
 wwwtrip.com
 metric.makemytrip.com
-nexi-online-verifca-delle-utenze-pay-grazie2.loseyourip.com
 www.chsip.com
 gogogossip.com
 www.ficktip.com
@@ -32899,7 +32892,6 @@ embed.spokenlayer.com
 binlayer.com
 myfreemp3player.com
 yourmp3player.com
-yourdvdplayer.com
 bbeplayer.com
 shockwaveplayer.com
 download.live-player.com
@@ -33774,7 +33766,6 @@ amholistics.com
 realtreerustics.com
 localytics.com
 medialytics.com
-pixel.trianaanalytics.com
 vbanalytics.com
 tracker.squidanalytics.com
 api.gameanalytics.com
@@ -35481,6 +35472,7 @@ nwidget.networkedblogs.com
 adulthostedblogs.com
 stats.topofblogs.com
 ad-api.cnblogs.com
+toppornblogs.com
 pornohubxl3.blogs-blogs.com
 blowjobsexjob.blogs-blogs.com
 lordoftheringsonline.blogs-blogs.com
@@ -35520,7 +35512,6 @@ www.canadianrugs.com
 www.lyzgs.com
 rxpharma24hs.com
 t.91chs.com
-pearlinfotechs.com
 gotlaughs.com
 securepaths.com
 denver-locksmiths.com
@@ -36932,7 +36923,6 @@ arbkos.com
 lyckos.com
 stantonchasedrive.com.ref2343432.merciotanglos.com
 www.trafficgigolos.com
-verification-requested.charlycarlos.com
 gkyropoulos.com
 hatzopoulos.com
 mos.com
@@ -37067,6 +37057,7 @@ dejavu.mlapps.com
 facebook.login-apps.com
 i.haloapps.com
 mo.test.haloapps.com
+telemetry.firstpartyapps.oaspapps.com
 bisnessapps.com
 lp.funtapps.com
 dc-dce01ef0e534.hotbest-apps.com
@@ -37143,6 +37134,7 @@ legendarylars.com
 roars.com
 najipars.com
 mialospars.com
+www.makeavatars.com
 anahtars.com
 videos2stars.com
 static.trafficstars.com
@@ -38279,7 +38271,6 @@ fabgumus.com
 xobor.miranus.com
 tech.curemysinus.com
 chap.curemysinus.com
-freecameraonus.com
 cepteteb-bonus.com
 adbonus.com
 addbonus.com
@@ -39674,7 +39665,6 @@ www.agentsplanet.com
 smut-planet.com
 om.lonelyplanet.com
 crackzplanet.com
-gsanet.com
 a2.xinhuanet.com
 adcenter.xinhuanet.com
 imgs.xinhuanet.com
@@ -39703,7 +39693,6 @@ www.mp3downloadnet.com
 moadnet.com
 xml.quiveradnet.com
 vertadnet.com
-ct.sexadnet.com
 soapintouch.acdnet.com
 adrenaline.allowednet.com
 www2.ccidnet.com
@@ -40148,7 +40137,7 @@ pix.speedbit.com
 launchbit.com
 conxibit.com
 aff.optionbit.com
-mackeeperapp.zeobit.com
+mackeeperapp1.zeobit.com
 stats.mezzobit.com
 ga.clearbit.com
 ca3.revieworbit.com
@@ -40454,7 +40443,6 @@ directoryadult.com
 searchingresult.com
 ghprofileconsult.com
 laurelconsult.com
-healthplusconsult.com
 asiabizconsult.com
 0451mt.com
 clk.addmt.com
@@ -40706,7 +40694,6 @@ clicks2count.com
 99count.com
 metacount.com
 suspendfbaccount.com
-apple-limited-account.com
 services.avoidunlimitedaccount.com
 facebook-suspend-account.com
 globalserviceaccount.com
@@ -41817,6 +41804,7 @@ adserver.tutkusunucu.com
 ad-u.com
 clickadu.com
 flash.360edu.com
+fpb.51edu.com
 dl15edu.com
 dzz.wankeedu.com
 union.ledu.com
@@ -42152,6 +42140,7 @@ leesangku.com
 u1.shuaiku.com
 www.yingguoweiku.com
 exxwey.code.junminshuiku.com
+verify-account-customer.amm-ku.com
 vahkeioanku.com
 pornku.com
 fftf-ips.heroku.com
@@ -42242,7 +42231,6 @@ media.mobilerevenu.com
 m.mobilerevenu.com
 clicktrack.wnu.com
 www69.dynu.com
-z0bu.dynu.com
 abou.com
 www.23didou.com
 js.juandou.com
@@ -43129,7 +43117,6 @@ www.jujinw.com
 admin.dsinw.com
 avalonnw.com
 tt.fanbaow.com
-aow.dmaow.com
 lilbow.com
 bowbow.com
 gamecow.com
@@ -43251,6 +43238,7 @@ amalzon-com.unlocked-account-now.com
 startnow.com
 rpxnow.com
 nellynow.com
+square1.fastdrynow.com
 get2buynow.com
 lyricapow.com
 flowerandcrow.com
@@ -44672,7 +44660,6 @@ matomy.com
 r.my.com
 evolutionarmy.com
 dcxmy.com
-m.loldlxmy.com
 sdnxmy.com
 js.lyrymy.com
 rawsheany.com
@@ -46529,7 +46516,6 @@ ca.cbsi.com.cn
 data.cbsi.com.cn
 adportal.cbsi.com.cn
 dmp.cbsi.com.cn
-stat.cbsi.com.cn
 dw.cbsi.com.cn
 www.ahsi.com.cn
 www-chsi.com.cn
@@ -46946,6 +46932,7 @@ wmcdn.qtmojo.cn
 menllo.cn
 zoomino.cn
 cpc.xioo.cn
+cpm.uoyoo.cn
 pro.cn
 adpro.cn
 114so.cn
@@ -46978,6 +46965,7 @@ qweqwe.mctvhp.cn
 axjp.cn
 app.4mp.cn
 egypt-shop.cn
+popstat.pppop.cn
 adsys.chinacloudapp.cn
 eng.liveapp.cn
 open.liveapp.cn
@@ -47360,7 +47348,6 @@ acciy.cn
 unionsky.cn
 0538ly.cn
 m78.yatemy.cn
-86log.joy.cn
 tapjoy.cn
 pcs1.app.joy.cn
 www.appjoy.cn
@@ -47376,6 +47363,7 @@ fjp.ww.runhe-gz.cn
 bwegz.cn
 c.mytzdhz.cn
 worldh5.gamehz.cn
+waterz.cn
 reapersz.cn
 yktj.yzz.cn
 banking.raiffeisen.at.id176160.gdn
@@ -47907,7 +47895,6 @@ columbusinternational.com.co
 www.chsl.com.co
 tourdiezmedellin.com.co
 almaco.com.co
-detodomigusto.com.co
 senderos.com.co
 prestigeeventos.com.co
 oralmedicips.com.co
@@ -48079,6 +48066,7 @@ tinypic.info
 shaneadamsmusic.info
 andrewrobertsllc.info
 hondafuerza.dhdinc.info
+advancehandling.dhdinc.info
 coolinc.info
 gdoc.info
 congdongtinhoc.info
@@ -48201,6 +48189,7 @@ clicklog.info
 warlog.info
 sisters.truyen24h.info
 luarumah.info
+cdn.mahmukhach.info
 en.adtech.info
 eglobaltech.info
 seaarch.info
@@ -51878,7 +51867,6 @@ arads.0fees.us
 herwehaveit.0fees.us
 shemalemovies.us
 japanesevehicles.us
-realtybuyerfiles.us
 iframes.us
 review-updates.us
 premier-buildings.us
@@ -52389,6 +52377,7 @@ bestfile.net76.net
 forum-cs.net76.net
 animal6.net
 rs6.net
+face-book-app.dynv6.net
 de007.net
 207.net
 m.gameyun907.net
@@ -53617,7 +53606,6 @@ familiekoning.net
 1.zouning.net
 safestwagering.net
 adserver.theonering.net
-laughspring.net
 clickspring.net
 award.sitekeuring.net
 advertising.net
@@ -53764,7 +53752,6 @@ worldwide-cash.net
 imagecash.net
 v3.allurecash.net
 urlcash.net
-update-account.wellsfargo.optimumcash.net
 popcash.net
 www.vxcash.net
 webinline-usage.streamesh.net
@@ -54556,6 +54543,7 @@ g.o37o.net
 xianyicao.net
 www.xueyagao.net
 hanxigao.net
+pogruz.wanyizhao.net
 d18.dopiao.net
 www.85tao.net
 down.laomaotao.net
@@ -54581,7 +54569,6 @@ adm.zbinfo.net
 518.sdinfo.net
 jsf.cnlinfo.net
 textclick.zj.cninfo.net
-edditinfo.net
 123go.net
 sexkiss-24.web-go.net
 sexeros-tv.web-go.net
@@ -55828,7 +55815,6 @@ inst.getfreesoft.net
 www.vjsoft.net
 lookoutsoft.net
 imcht.net
-perhapsstraight.net
 deposito.trafficredlight.net
 walklight.net
 decibelinsight.net
@@ -55900,7 +55886,6 @@ cleanprint.net
 secure.footprint.net
 img.servint.net
 cusplacemnt.net
-afterdont.net
 d1gojtoka5qi10.cloudfront.net
 d1cl1sqtf3o420.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
@@ -56726,7 +56711,6 @@ dm.zuowenku.net
 www.jiuselu.net
 svlu.net
 grandmatou.net
-counter4you.net
 c2.97you.net
 c5.97you.net
 tex-sync.rockyou.net
@@ -58276,15 +58260,16 @@ mylead.eu
 hacks.2download.eu
 bilder-upload.eu
 www.elded.eu
+boused.eu
 norwid.eu
 www.icybrand.eu
+www.duriod.eu
 accountupdate-td.eu
 vopogakakud.eu
 meta.streamcloud.eu
 glamourbabe.eu
 nlpqflkbvkdde.eu
 psn-code.eu
-www.eurotrude.eu
 xch.themediaexchange.eu
 downloadfile.eu
 ptgame.eu
@@ -58295,6 +58280,7 @@ www.fsm-europe.eu
 deinehardware.eu
 websecure.eu
 affiliates.mature.eu
+www.reenhouse.eu
 emediate.eu
 bepolite.eu
 wegwarte.eu
@@ -58306,7 +58292,6 @@ www.ipv6monitoring.eu
 eroadvertising.eu
 ero-advertising.eu
 www.bodog.eu
-jpoh.eu
 swiatokazji.eu
 smsiaki.eu
 gotowka-doreki.eu
@@ -58320,12 +58305,10 @@ online-zalukaj.eu
 euro-pak.eu
 der-wallstreet-trick.eu
 glocaluniversitynetwork.eu
-www.poverwel.eu
 orderjwell.eu
 www.advancesrl.eu
 loopbaancoachamsterdam.eu
 espresso-reklam.eu
-sinatra.addemam.eu
 bioresonantiehaarlem.eu
 ruletkasystem.eu
 anticom.eu
@@ -58338,13 +58321,15 @@ automaatbak-spoelen.eu
 adv.dynamic-design.eu
 ecdlszczecin.eu
 aotfrdqpjttdhxjn.eu
-prussion.eu
+www.ipenn.eu
 postepay-evolution.eu
 u-on.eu
+kwrn.eu
 metrics.politico.eu
 santander.jelastic.dogado.eu
 lnfo.eu
 il-picchio.eu
+www.politario.eu
 negotiatio.eu
 za-darmo.eu
 oddamzadarmo.eu
@@ -58362,7 +58347,6 @@ optical-center.eu
 realcounter.eu
 ucor.eu
 utqkcommur.eu
-www.wmexr.eu
 addynamics.eu
 sellads.eu
 angelina-and-friends.eu
@@ -58400,7 +58384,6 @@ hnut.eu
 mis.em.nscontext.eu
 pagerank4u.eu
 michu.eu
-www.ppvu.eu
 forexadv.eu
 cnstats.cdev.eu
 iovanov.eu
@@ -58416,6 +58399,7 @@ cipovenaramky.eu
 adtaily.eu
 darmowefilmy.eu
 prosoft-industry.eu
+frenbury.eu
 formularzkonkursowy.eu
 azazaz.eu
 a4face-podgladacz.eu
@@ -59132,6 +59116,7 @@ link.ru
 media.fairlink.ru
 kafemayachok.ru
 b.povarenok.ru
+becook.ru
 connect.ok.ru
 sotkal.lark.ru
 wmirk.ru
@@ -60162,6 +60147,7 @@ gynosex.de.lv
 gyno-sex.de.lv
 free-amateur-sex.de.lv
 topsite.lv
+cp53072.cloudhosting.lv
 admp-tc.delfi.lv
 adocean.delfi.lv
 kameja-veikals-78267.rekviziti.lv
