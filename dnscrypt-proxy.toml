@@ -23,6 +23,7 @@ tls_disable_session_tickets = false
 tls_cipher_suite = [52392, 49199]
 fallback_resolver = '9.9.9.9:53'
 ignore_system_dns = false
+netprobe_timeout = 30
 log_files_max_size = 10
 log_files_max_age = 7
 log_files_max_backups = 1
